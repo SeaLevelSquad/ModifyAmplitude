@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ModifyAmplitude</string>
+    <string name="xposed_description">It can handle the vibration class in the framework, and the Hook corresponding method modifies the maximum amplitude value not to exceed a specific value</string>
+    <string-array name="scope">
+        <item>android</item>
+    </string-array>
+</resources>
